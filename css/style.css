@@ -71,9 +71,10 @@ li {
 }
 
 .header-menu li:nth-child(5){
-	color: #000;
+	color: #FFF;
 	padding: 5px 20px;
 	background-color: #F98561;
+	border-radius: 5px; 
 }
 
 .header-menu li:last-child {
@@ -126,7 +127,7 @@ li {
 
 .main-section-learn {
 	text-transform: uppercase;
-	color: #000;
+	color: #FFF;
 	background-color: #F98561;
 	padding: 18px 55px;
 	text-align: center;
@@ -135,6 +136,7 @@ li {
 	font-family: 'Oswald', sans-serif;
 	font-weight: 500;
 	margin: 0 auto;
+	border-radius: 10px; 
 }
 
 
